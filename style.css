@@ -11,12 +11,10 @@
   margin: 0 auto;
 }
 .bayan-item {
-  position: relative;
   margin-bottom: 0rem;
   cursor: pointer;
 }
 .bayan-input {
-  position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
